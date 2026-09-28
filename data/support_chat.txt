@@ -1,0 +1,80 @@
+=== D1001 ===
+[2025-01-05] Buyer: just got the camera, looks great! does it come with a case?
+[2025-01-06] Seller: glad it arrived! no case included, sorry about that
+[2025-01-07] Buyer: wait, actually I never received this order, I need a refund
+
+=== D1002 ===
+[2025-01-08] Buyer: this is a grey jacket, I ordered the black one
+[2025-01-08] Seller: oh no, I think I mixed up your order with another black/grey pair, so sorry
+
+=== D1003 ===
+[2025-01-08] Buyer: never got this, need a refund
+
+=== D1004 ===
+[2025-01-09] Buyer: pedal case arrived cracked, attaching a photo
+[2025-01-09] Seller: so sorry - our listing says DOA damage is covered, refunding now
+
+=== D1005 ===
+[2025-01-12] Buyer: it's been over a week and tracking hasn't moved in days
+[2025-01-12] Seller: let me check with the carrier... yeah it looks stuck at the hub, I'll refund you
+
+=== D1006 ===
+[2025-01-13] Buyer: listing said "like new, tiny scuff" but this has multiple scratches, feels used
+[2025-01-13] Seller: it was one small scuff on the underside when I checked it before shipping, not sure what happened after that
+
+=== D1007 ===
+[2025-01-14] Buyer: got these, but they're a size 11 not the 10 I ordered
+[2025-01-14] Seller: ugh, I mislabeled the box, that's on me - refund coming
+
+=== D1008 ===
+[2025-01-19] Buyer: never received this, please refund
+
+=== D1009 ===
+[2025-01-18] Buyer: hey it's been a day since it showed delivered, still don't see it, can you check with the carrier?
+[2025-01-19] Buyer: oh never mind, found it! it had slipped behind my porch bench. sorry for the trouble
+[2025-01-20] Buyer: actually I need to reopen this - I think I mixed this up with a different package, I still haven't gotten the needle
+
+=== D1010 ===
+[2025-01-21] Buyer: I never got this, someone else must have signed for it
+[2025-01-21] Seller: the tracking shows a signature at your address, I'm not sure what happened on your end
+
+=== D1011 ===
+[2025-01-22] Buyer: record is snapped in half, photo attached, the package corner looks crushed too
+[2025-01-22] Seller: yeah that packaging was too thin, I've switched to rigid mailers since, refunding you
+
+=== D1012 ===
+[2025-01-25] Buyer: it's been 12 days and tracking still says label created, hello?
+
+=== D1013 ===
+[2025-02-02] Buyer: never received, refund please
+
+=== D1014 ===
+[2025-02-03] Buyer: the stitching and hardware don't match authentic ones, attaching a comparison photo
+[2025-02-03] Seller: I got it from a reputable wholesaler, I believe it's genuine, though I don't have a receipt to show
+
+=== D1015 ===
+[2025-01-30] Buyer: hey can you ship this to my PO box instead? [PO Box 4471]
+[2025-01-30] Seller: sure thing, updated the shipping address on the order
+[2025-02-05] Buyer: never got this
+
+=== D1016 ===
+[2025-02-06] Buyer: got blue, ordered black - not a big deal but flagging it
+[2025-02-06] Seller: no problem, want a partial refund for the mix-up or an exchange?
+[2025-02-06] Buyer: partial refund is fine, thanks
+
+=== D1017 ===
+[2025-02-14] Buyer: never received, need refund
+
+=== D1018 ===
+[2025-02-13] Buyer: love the jacket! does it run true to size, thinking about getting another
+[2025-02-16] Buyer: actually I never received this jacket, need a refund
+
+=== D1019 ===
+[2025-02-17] Buyer: amp doesn't turn on at all
+[2025-02-17] Seller: try holding the power button for 5 sec, sometimes it needs a firmware reset
+[2025-02-17] Buyer: tried that, still nothing
+[2025-02-17] Seller: ok, that's a real fault then - refunding you
+
+=== D1020 ===
+[2025-02-18] Buyer: I ordered the fuzz pedal, this is a delay pedal
+[2025-02-18] Seller: ah shoot, grabbed the wrong one off the shelf - refunding you, and keep this one too

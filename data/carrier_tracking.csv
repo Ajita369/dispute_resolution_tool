@@ -1,0 +1,21 @@
+order_id,carrier,signature_required,signed_by,delivery_status,last_scan_date,last_scan_location,delivered_date,delivery_notes
+D1001,ParcelEx,No,,Delivered,2025-01-05,local depot,2025-01-05,left at front door
+D1002,ParcelEx,Yes,D.MERCADO,Delivered,2025-01-07,,2025-01-07,signed at front desk
+D1003,SwiftShip,No,,Delivered,2025-01-07,local depot,2025-01-07,left at door no signature
+D1004,ParcelEx,No,,Delivered,2025-01-08,local depot,2025-01-08,left at door
+D1005,SwiftShip,No,,In Transit,2025-01-10,regional hub - 300mi from delivery address,,not yet delivered - tracking stalled
+D1006,ParcelEx,No,,Delivered,2025-01-11,local depot,2025-01-11,left at door
+D1007,ParcelEx,Yes,D.W.,Delivered,2025-01-13,,2025-01-13,signed by recipient
+D1008,SwiftShip,No,,Delivered,2025-01-18,local depot,2025-01-18,left at door no signature
+D1009,ParcelEx,No,,Delivered,2025-01-17,local depot,2025-01-17,left at door
+D1010,ParcelEx,Yes,S.KAPOOR,Delivered,2025-01-19,,2025-01-19,signed by recipient
+D1011,SwiftShip,No,,Delivered,2025-01-21,local depot,2025-01-21,left at door
+D1012,ParcelEx,No,,Label Created,2025-01-13,origin facility,,never picked up by carrier - no scans after label creation
+D1013,SwiftShip,No,,Delivered,2025-02-01,local depot,2025-02-01,left at door no signature
+D1014,ParcelEx,Yes,C.M.,Delivered,2025-02-01,,2025-02-01,signed by recipient
+D1015,SwiftShip,No,,Delivered,2025-02-03,local depot,2025-02-03,left at door no signature - delivered to street address on file at ship time
+D1016,ParcelEx,No,,Delivered,2025-02-05,local depot,2025-02-05,left at door
+D1017,SwiftShip,No,,Delivered,2025-02-13,local depot,2025-02-13,left at door no signature
+D1018,ParcelEx,Yes,O.DAVIS,Delivered,2025-02-10,,2025-02-10,signed by recipient
+D1019,ParcelEx,Yes,L.C.,Delivered,2025-02-15,,2025-02-15,signed by recipient
+D1020,ParcelEx,No,,Delivered,2025-02-17,local depot,2025-02-17,left at door

@@ -1,0 +1,25 @@
+{
+  "order": {
+    "order_id": "D2001",
+    "buyer_handle": "maria_t",
+    "seller_handle": "vinyl_vault",
+    "item": "Turntable Cartridge",
+    "price_usd": "65",
+    "dispute_reason": "Never received",
+    "dispute_filed_date": "2026-01-10"
+  },
+  "tracking": {
+    "carrier": "ParcelEx",
+    "signature_required": "Yes",
+    "signed_by": "M.TORRES",
+    "delivery_status": "Delivered",
+    "last_scan_date": "2026-01-08",
+    "last_scan_location": "",
+    "delivered_date": "2026-01-08",
+    "delivery_notes": "signed at front desk"
+  },
+  "chat": [
+    {"date": "2026-01-09", "speaker": "Buyer", "text": "I never got this order, can you check with the carrier?"},
+    {"date": "2026-01-09", "speaker": "Seller", "text": "Tracking shows it was signed for at your address, not sure what happened on your end."}
+  ]
+}

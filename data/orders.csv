@@ -1,0 +1,21 @@
+order_id,buyer_handle,seller_handle,item,price_usd,dispute_reason,dispute_filed_date
+D1001,alex_p90,retro_finds,Vintage Camera,145,Never received,2025-01-07
+D1002,dana_m,boutique_threads,Leather Jacket,210,Wrong item received,2025-01-08
+D1003,quick_flip99,north_collectibles,Signed Baseball,89,Never received,2025-01-08
+D1004,helen_ok,stagegear_co,Guitar Pedal,60,Damaged on arrival,2025-01-09
+D1005,reggie_t,north_collectibles,Comic Book Lot,150,Never received,2025-01-12
+D1006,priya_s,gearhead_supply,Bike Helmet,75,Not as described,2025-01-13
+D1007,derek_w,boutique_threads,Sneakers,220,Wrong size shipped,2025-01-14
+D1008,quick_flip99,audio_attic,Turntable,180,Never received,2025-01-19
+D1009,monica_lee,retro_finds,Record Player Needle,25,Never received,2025-01-20
+D1010,sam_k,gearhead_supply,Weight Plates,95,Never received,2025-01-21
+D1011,nina_v,north_collectibles,Vinyl Record,40,Arrived broken,2025-01-22
+D1012,theo_b,audio_attic,Headphones,130,Seller unresponsive - never shipped,2025-01-25
+D1013,quick_flip99,stagegear_co,Microphone,99,Never received,2025-02-02
+D1014,carla_m,boutique_threads,Handbag,175,Suspected counterfeit,2025-02-03
+D1015,jorge_l,retro_finds,Polaroid Camera,85,Never received,2025-02-05
+D1016,fatima_r,gearhead_supply,Resistance Bands,20,Wrong color,2025-02-06
+D1017,quick_flip99,retro_finds,Cassette Deck,110,Never received,2025-02-14
+D1018,owen_d,boutique_threads,Denim Jacket,95,Never received,2025-02-16
+D1019,liang_c,audio_attic,Guitar Amp,250,Arrived - does not power on,2025-02-17
+D1020,priya_s,stagegear_co,Effects Pedal,70,Wrong item shipped,2025-02-18
